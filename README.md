@@ -114,3 +114,16 @@ A single idea may become:
 - Views alone are not value.
 - Raw Osvaldo wording must be preserved before rewriting.
 - This system must reduce Osvaldo's work, not increase it.
+
+
+## Visitor room / external-model interoperability
+
+Models that cannot access other Umbral repositories must use:
+
+`SALA_VISITAS/`
+
+This is a controlled portable context layer, not a replacement for canonical Umbral sources.
+
+Read:
+`SALA_VISITAS/README.md`
+before using its copies or summaries.
