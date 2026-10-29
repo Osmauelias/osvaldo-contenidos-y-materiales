@@ -62,3 +62,21 @@ Provide:
 - optional alternate;
 - words/phrases that feel non-Osvaldo;
 - any ambiguity that needs Human Pass.
+
+
+## If you cannot access external Umbral repositories
+
+Use the local visitor room:
+
+`SALA_VISITAS/`
+
+Mandatory portable reading:
+- `SALA_VISITAS/IDENTIDAD/osvaldo-manifiesto.md`
+- `SALA_VISITAS/IDENTIDAD/voz-osvaldo-portable.md`
+- `SALA_VISITAS/CONTEXTO/modelo-umbral.md`
+- `SALA_VISITAS/CONTEXTO/aido-concepto.md`
+- `SALA_VISITAS/EDITORIAL/vida-amplia-notas.md`
+- `SALA_VISITAS/EDITORIAL/jaula-de-oro-notas.md`
+- `SALA_VISITAS/UNIVERSIDADES/UNIVERSIDADES_PORTABLE.md`
+
+Treat these as portable context. Where a file declares `CURRENT_OVERRIDE`, the override wins over older historical phrasing.
