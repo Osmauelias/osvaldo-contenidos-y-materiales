@@ -240,13 +240,15 @@ Puede venir de:
 
 ## Contexto personal sensible
 
-Existen experiencias de salud física y mental que Osvaldo ha decidido que pueden formar parte de su narrativa pública cuando aporten contexto real.
+Osvaldo tiene material biográfico sensible que puede ser editorialmente relevante en algunos casos.
 
-**SENSITIVE_CONTEXT — HUMAN PASS REQUIRED**
+Ese material **NO se almacena en detalle en esta sala pública**.
 
-No convertir dolor, hospitalizaciones o episodios de salud en carnada automática de retención.
-
-No convertir experiencia personal en recomendación médica universal.
+Si una idea requiere historia personal sensible:
+- marcar `SENSITIVE_CONTEXT_REQUIRED`;
+- solicitar contexto mediante Human Pass;
+- no inferir diagnósticos, tratamientos, hospitalizaciones ni detalles médicos;
+- no convertir dolor personal en carnada automática de retención.
 
 ## Identidad compartida entre ambas cuentas
 
