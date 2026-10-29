@@ -127,3 +127,22 @@ This is a controlled portable context layer, not a replacement for canonical Umb
 Read:
 `SALA_VISITAS/README.md`
 before using its copies or summaries.
+
+
+## Meta AI — fallback de acceso
+
+Si Meta AI puede ver el repo pero GitHub le devuelve `PAGE_NOT_FOUND` al abrir archivos o carpetas, usar el paquete único de inmersión vía RAW:
+
+`https://raw.githubusercontent.com/Osmauelias/osvaldo-contenidos-y-materiales/main/SALA_VISITAS/PAQUETES/META_IMMERSION_PACK.md`
+
+Ese archivo contiene:
+- manual de Meta;
+- identidad editorial actual de Osvaldo;
+- voz portable reconciliada;
+- contexto Umbral;
+- contexto AIDOH;
+- Vida Amplia;
+- Jaula de Oro;
+- catálogo portable de Universidades.
+
+Meta debe responder `META_IMMERSION_PASS` antes de producir contenido.
