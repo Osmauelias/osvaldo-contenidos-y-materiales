@@ -167,3 +167,20 @@ The council works when:
 - fewer duplicate drafts exist;
 - published content generates learning;
 - Osvaldo spends more time living/building than administering content.
+
+
+## Visitor room rule
+
+Some council members cannot access external Umbral repositories.
+
+For them:
+
+`SALA_VISITAS = INTEROPERABILITY CONTEXT LAYER`
+
+It may intentionally duplicate/summarize knowledge needed to work.
+
+Rules:
+- provenance required;
+- portable copy does not supersede canonical source;
+- later explicit Osvaldo decisions override historical portable material;
+- no secrets or third-party sensitive operator records belong in the visitor room.
