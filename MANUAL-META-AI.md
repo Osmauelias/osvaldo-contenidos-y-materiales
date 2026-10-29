@@ -56,3 +56,23 @@ Give:
 - risk of misunderstanding;
 - suggested visual/opening;
 - optional CTA only if the content job requires it.
+
+
+## If you cannot access external Umbral repositories
+
+Use the local visitor room:
+
+`SALA_VISITAS/`
+
+Mandatory portable reading:
+- `SALA_VISITAS/IDENTIDAD/osvaldo-manifiesto.md`
+- `SALA_VISITAS/IDENTIDAD/voz-osvaldo-portable.md`
+- `SALA_VISITAS/CONTEXTO/modelo-umbral.md`
+- `SALA_VISITAS/CONTEXTO/aido-concepto.md`
+- `SALA_VISITAS/EDITORIAL/vida-amplia-notas.md`
+- `SALA_VISITAS/EDITORIAL/jaula-de-oro-notas.md`
+- `SALA_VISITAS/UNIVERSIDADES/UNIVERSIDADES_PORTABLE.md`
+
+The visitor room exists specifically so you can work without keys to the full Umbral house.
+
+Do not infer missing canonical details. Mark them as `SOURCE_REQUIRED`.
